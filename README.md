@@ -14,6 +14,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+![image](https://github.com/antoine-fleury/react_event_store/assets/43677632/1f893786-3c27-4154-aa87-dce3e10f7a04)
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
